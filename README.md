@@ -32,6 +32,7 @@ Table of Contents
  
  
 ## [↑](#table-of-contents) Initial Access
+* [The Hitchhiker’s Guide To Initial Access](https://posts.specterops.io/the-hitchhikers-guide-to-initial-access-57b66aa80dd6)
 * [How To: Empire’s Cross Platform Office Macro](https://www.blackhillsinfosec.com/empires-cross-platform-office-macro/)
 * [Phishing with PowerPoint](https://www.blackhillsinfosec.com/phishing-with-powerpoint/)
 * [PHISHING WITH EMPIRE](https://enigma0x3.net/2016/03/15/phishing-with-empire/)
@@ -340,18 +341,22 @@ Table of Contents
 * [How I Prepared to Red Team at PRCCDC 2015](https://bluescreenofjeff.com/2015-04-15-how-i-prepared-to-red-team-at-prccdc-2015/)
 * [Red Teaming for Pacific Rim CCDC 2016](https://bluescreenofjeff.com/2016-05-24-pacific-rim-ccdc_2016/)
 * [Responsible Red Teams](https://medium.com/@malcomvetter/responsible-red-teams-1c6209fd43cc)
+* [Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 
 ## [↑](#table-of-contents) RedTeam Gadgets
 #### Network Implants
 * [LAN Tap Pro](https://hackerwarehouse.com/product/lan-tap-pro/)
 * [LAN Turtle](https://hakshop.com/collections/network-implants/products/lan-turtle)
 * [Bash Bunny](https://hakshop.com/collections/physical-access/products/bash-bunny)
+* [Key Croc](https://shop.hak5.org/collections/sale/products/key-croc)
 * [Packet Squirrel](https://hakshop.com/products/packet-squirrel)
+* [Shark Jack](https://shop.hak5.org/collections/sale/products/shark-jack)
 #### Wifi Auditing
 * [WiFi Pineapple](https://hakshop.com/products/wifi-pineapple)
 * [Alpha Long range Wireless USB](https://hackerwarehouse.com/product/alfa-802-11bgn-long-range-usb-wireless-adapter/)
 * [Wifi-Deauth Monster](https://www.tindie.com/products/lspoplove/dstike-wifi-deauther-monster/)
 * [Crazy PA](https://www.amazon.com/gp/product/B00VYA3A2U/ref=as_li_tl)
+* [Signal Owl](https://shop.hak5.org/products/signal-owl)
 #### IoT
 * [BLE Key](https://hackerwarehouse.com/product/blekey/)
 * [Proxmark3](https://hackerwarehouse.com/product/proxmark3-kit/)
@@ -368,12 +373,17 @@ Table of Contents
 * [Poison tap](https://samy.pl/poisontap/)
 * [keysweeper](https://samy.pl/keysweeper/)
 * [USB Rubber Ducky](https://hakshop.com/collections/physical-access/products/usb-rubber-ducky-deluxe)
+* [Screen Crab](https://shop.hak5.org/collections/sale/products/screen-crab)
+* [O.MG Cable](https://shop.hak5.org/collections/featured-makers/products/o-mg-cable)
+* [Keysy](https://shop.hak5.org/collections/featured-makers/products/keysy)
 
 ## [↑](#table-of-contents) Ebooks
 * [Next Generation Red Teaming](https://www.amazon.com/Next-Generation-Teaming-Henry-Dalziel/dp/0128041714)
 * [Targeted Cyber Attack](https://www.amazon.com/Targeted-Cyber-Attacks-Multi-staged-Exploits/dp/0128006048)
 * [Advanced Penetration Testing: Hacking the World's Most Secure Networks](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689)
 * [Social Engineers' Playbook Practical Pretexting](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/)
+* [The Hacker Playbook 3: Practical Guide To Penetration Testing](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
+* [How to Hack Like a PORNSTAR: A step by step process for breaking into a BANK ](https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking-ebook/dp/B01MTDLGQQ)
 
 ## [↑](#table-of-contents) Training ( Free )
 * [Tradecraft - a course on red team operations](https://www.youtube.com/watch?v=IRpS7oZ3z0o&list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz)
@@ -385,3 +395,6 @@ Table of Contents
 * [CREST Certified Simulated Attack Manager](http://www.crest-approved.org/examination/certified-simulated-attack-manager/)
 * [SEC564: Red Team Operations and Threat Emulation](https://www.sans.org/course/red-team-operations-and-threat-emulation)
 * [ELearn Security Penetration Testing eXtreme](https://www.elearnsecurity.com/course/penetration_testing_extreme/)
+* [Certified Red Team Professional](https://www.pentesteracademy.com/activedirectorylab)
+* [Certified Red Teaming Expert](https://www.pentesteracademy.com/redteamlab)
+* [PentesterAcademy Certified Enterprise Security Specialist (PACES)](https://www.pentesteracademy.com/gcb)
